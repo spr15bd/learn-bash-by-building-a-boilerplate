@@ -98,3 +98,4 @@ git add freeCodeCamp/test/.next_command
 git branch
 git push
 git status
+git push
