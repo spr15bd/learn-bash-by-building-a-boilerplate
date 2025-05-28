@@ -144,3 +144,5 @@ cd ..
 cd ..
 git status
 git add --all
+git commit
+git push
