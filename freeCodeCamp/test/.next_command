@@ -93,3 +93,6 @@ ld
 ls --color=auto
 git status
 git add --all
+git branch
+git commit
+git push
